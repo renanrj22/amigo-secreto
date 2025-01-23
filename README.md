@@ -10,9 +10,11 @@ Jogo báse para sortear nomes, e vir um resultado alatório.
 JavaScript
 CSS
 HTML
-**Instalação:**
+
  **Clone o repositório:**
-  [ ```bash
-   git hub https://github.com/renanrj22/amigo-secreto
-** Link amigo secreto vercel**
+  
+  git hub https://github.com/renanrj22/amigo-secreto
+   
+**Link amigo secreto vercel**
+
 https://amigo-secreto-plum-eta.vercel.app/
